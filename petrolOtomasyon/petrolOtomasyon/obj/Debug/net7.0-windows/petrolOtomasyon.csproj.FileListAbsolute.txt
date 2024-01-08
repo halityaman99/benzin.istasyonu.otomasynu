@@ -1,0 +1,17 @@
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\bin\Debug\net7.0-windows\petrolOtomasyon.exe
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\bin\Debug\net7.0-windows\petrolOtomasyon.deps.json
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\bin\Debug\net7.0-windows\petrolOtomasyon.runtimeconfig.json
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\bin\Debug\net7.0-windows\petrolOtomasyon.dll
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\bin\Debug\net7.0-windows\petrolOtomasyon.pdb
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.csproj.AssemblyReference.cache
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.Form1.resources
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.csproj.GenerateResource.cache
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.AssemblyInfoInputs.cache
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.AssemblyInfo.cs
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.dll
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\refint\petrolOtomasyon.dll
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.pdb
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\petrolOtomasyon.genruntimeconfig.cache
+C:\Users\halit\source\repos\petrolOtomasyon\petrolOtomasyon\obj\Debug\net7.0-windows\ref\petrolOtomasyon.dll
